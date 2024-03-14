@@ -1,0 +1,19 @@
+#images {
+    height: 250px;
+    width: 200px;
+}
+#con{
+    background-color: antiquewhite;
+}
+
+@media only screen and (max-width: 491px) {
+
+
+    #images {
+        height: 300px;
+        width: 220px;
+        
+    }
+
+
+}
